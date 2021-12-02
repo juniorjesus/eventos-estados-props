@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/juniorjesus/eventos-estados-props/static/js/main.6e731ee4.chunk.js",
+    "main.js.map": "/juniorjesus/eventos-estados-props/static/js/main.6e731ee4.chunk.js.map",
+    "runtime-main.js": "/juniorjesus/eventos-estados-props/static/js/runtime-main.9b7f105c.js",
+    "runtime-main.js.map": "/juniorjesus/eventos-estados-props/static/js/runtime-main.9b7f105c.js.map",
+    "static/css/2.af519866.chunk.css": "/juniorjesus/eventos-estados-props/static/css/2.af519866.chunk.css",
+    "static/js/2.70354944.chunk.js": "/juniorjesus/eventos-estados-props/static/js/2.70354944.chunk.js",
+    "static/js/2.70354944.chunk.js.map": "/juniorjesus/eventos-estados-props/static/js/2.70354944.chunk.js.map",
+    "index.html": "/juniorjesus/eventos-estados-props/index.html",
+    "static/css/2.af519866.chunk.css.map": "/juniorjesus/eventos-estados-props/static/css/2.af519866.chunk.css.map",
+    "static/js/2.70354944.chunk.js.LICENSE.txt": "/juniorjesus/eventos-estados-props/static/js/2.70354944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b7f105c.js",
+    "static/css/2.af519866.chunk.css",
+    "static/js/2.70354944.chunk.js",
+    "static/js/main.6e731ee4.chunk.js"
+  ]
+}
