@@ -1,0 +1,25 @@
+{
+    "peliculas": [
+        {
+            "id": "1",
+            "Title": "Avatar",
+            "Poster": "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638422984/37183_njlmup.jpg",
+            "Year": "2009",
+            "Type": "movie"
+        },
+        {
+            "id": "2",
+            "Title": "Titanic",
+            "Poster": "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638422972/titanic_caratula_zpy1mm.jpg",
+            "Year": "1997",
+            "Type": "movie"
+        },
+        {
+            "id": "3",
+            "Title": "Star Wars: The force Awakens",
+            "Poster": "https://res.cloudinary.com/djbaqvlnn/image/upload/v1638422979/Star-Wars-Episode-III-Revenge-of-the-Sith-2005_rwg1o2.jpg",
+            "Year": "2015",
+            "Type": "movie"
+        }
+    ]
+}
